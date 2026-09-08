@@ -3,6 +3,8 @@
 This is a map of pubs in Exeter, originally created in November 2025.
 It is designed for A0 poster format.
 
+![poster preview](poster-preview.png)
+
 ## Poster creation pipeline
 
 To create the poster, begin with:
