@@ -1,0 +1,10 @@
+# Intermediate files
+/pubs.txt
+/names.png
+/pins.png
+/names/
+/map-with-pins.png
+
+# Unlabelled map GIMP project, too large of a file
+# Instead, individual layers saved in /map_src/
+map.xcf
