@@ -8,7 +8,6 @@ It is designed for A0 poster format.
 To create the poster, begin with:
 - `map.png`: the unlabelled map,
 - `links.txt`: a list of links to places on Google Maps,
-- `rating_glass.png`: the empty glass that goes next to each pub name.
 
 First create the labelled map:
 1. Run `./01_convert_links.sh` to convert the links to a tabulated file of coordinates (lat/long and pixel) and names, saved in `pubs.txt`.
